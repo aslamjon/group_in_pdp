@@ -5,3 +5,4 @@ hello world 2565
 65aslamjon
 
 hello local2
+hello remote
